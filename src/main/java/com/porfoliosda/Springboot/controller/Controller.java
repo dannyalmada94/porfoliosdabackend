@@ -27,7 +27,7 @@ import com.porfoliosda.Springboot.service.ITecnologiasService;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PutMapping;
 
-@CrossOrigin(origins = "http://localhost:4200", maxAge = 3600)
+@CrossOrigin(origins = "https://hosting-angular-87c31.web.app/")
 @RestController
 public class Controller {
     
